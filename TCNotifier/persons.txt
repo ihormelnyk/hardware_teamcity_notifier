@@ -1,0 +1,12 @@
+a.vandych;45
+d.sviridov;80
+i.melnyk;115
+i.sokolov;155
+m.kharaba;190
+o.volkov;220
+o.lepetiukh;470
+o.markovets;440
+p.kononchuk;405
+r.turovskyy;370
+t.kushnir;335
+y.zanichkovskyy;305
